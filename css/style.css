@@ -32,6 +32,15 @@ form button{
   font-family: 'Roboto', sans-serif;
 }
 
+.opacidade{
+  position: absolute;
+  opacity: 0.1;
+  background-image: url(../img/LogoApolloCell.png);
+  height: 800px;
+  margin-left: 50px;
+  top: 0px;
+}
+
 body,
 input,
 textarea {
