@@ -36,9 +36,9 @@ form button{
   position: absolute;
   opacity: 0.1;
   background-image: url(../img/LogoApolloCell.png);
-  height: 800px;
+  height: 600px;
   margin-left: 50px;
-  top: 0px;
+  top: 100px;
 }
 
 body,
