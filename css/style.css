@@ -138,3 +138,40 @@ footer {
   color: white;
   padding: 16px 0;
 }
+
+@media screen and (max-width: 767px) {
+
+  section .container {
+    max-width: 90%;
+    display: inline;
+  }
+
+  header h1 {
+    font-size: medium;
+  }
+
+  #sobre p {
+    padding-inline: 10px;
+  }
+  #sobre img-loja {
+    padding-left: 20px;
+    width: 350px;
+  }
+
+  #contato {
+    display: inline;
+  }
+
+  .metodos-contato {
+    display: inline;
+  }
+  .metodos-contato h3 {
+    padding-bottom: 25px;
+  }
+
+  footer {
+    font-size: x-small;
+  }
+
+  
+}
